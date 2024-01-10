@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Urbanist';
+  src: url('../Urbanist/Urbanist-VariableFont_wght.ttf') format('ttf');
+  /* Add additional font file formats and URLs if needed */
+  /* Specify the correct file format and path for your font files */
+  /* You can also use absolute URLs for cross-domain loading */
+}
+
+body {
+  font-family: 'Urbanist', sans-serif;
+  font-size: 24px;
+  transition: background-color .5s;
+}
